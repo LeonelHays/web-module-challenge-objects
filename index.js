@@ -43,6 +43,7 @@ Using the burger object below do the following:
   For example: burger.discount("teacher") would return 13.5 and burger.discount("public") would return 16.2
 */
 //I did it!!!!
+// code grade is getting a bit iffy 
 const burger = {
   name: "Burger", 
   price: 18, 
